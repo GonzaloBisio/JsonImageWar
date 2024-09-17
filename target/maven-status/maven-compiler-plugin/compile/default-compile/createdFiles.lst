@@ -1,0 +1,5 @@
+com\example\jsonwar\JsonWarApplication.class
+com\example\jsonwar\controller\FirmaController.class
+com\example\jsonwar\ServletInitializer.class
+com\example\jsonwar\service\FirmaService.class
+com\example\jsonwar\model\Firma.class
